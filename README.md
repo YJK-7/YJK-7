@@ -13,39 +13,41 @@ Thank you for visiting my profile!
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" alt="javascript"></img>
   </a>
-  <a herf="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
     <img src="https://skillicons.dev/icons?i=html" alt="html"></img>
   </a>
-  <a herf="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" alt="css"></img>
   </a>
-  <a herf="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/">
     <img src="https://skillicons.dev/icons?i=ts" alt="typescript"></img>
   </a>
-  <a herf="https://reactjs.org/">
+  <a href="https://reactjs.org/">
       <img src="https://skillicons.dev/icons?i=react" alt="react"></img>
   </a>
-  <a herf="https://getbootstrap.com/">
+  <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"></img>
   </a>
-  <a herf="https://www.postgresql.org/">
+  <a href="https://www.postgresql.org/">
       <img src="https://skillicons.dev/icons?i=postgres" alt="postgres"></img>
   </a>
-   <a herf="https://knexjs.org/">
+   <a href="https://knexjs.org/">
       <img  width="48" height="48" src="https://user-images.githubusercontent.com/92072255/199171452-82726560-2e41-4ba3-98e7-6680b7afabc0.svg"></img>
   </a>
-  <a herf="https://expressjs.com/">
+  <a href="https://expressjs.com/">
       <img src="https://skillicons.dev/icons?i=express" alt="express"></img>
   </a>
-  <a herf="https://nodejs.org/en/">
+  <a href="https://nodejs.org/en/">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"></img>
   </a>
-  <a herf="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/">
       <img src="https://skillicons.dev/icons?i=vscode" alt="vscode"></img>
   </a>
-  <a herf="https://git-scm.com/">
+  <a href="https://git-scm.com/">
       <img src="https://skillicons.dev/icons?i=git" alt="git"></img>
   </a>
-  <a herf="https://github.com/">
+  <a href="https://github.com/">
       <img src="https://skillicons.dev/icons?i=github" alt="github"></img>
   </a>
