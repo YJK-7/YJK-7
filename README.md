@@ -1,12 +1,19 @@
 ## :wave:	Hello, My name is Yoon Ju!
-I'm from Korea :kr:, and studying Economics at Keio University in Japan :jp:
-<br />
-Currently, I am working towrads becoming a fullstack developer :computer:
-<br />
-I love watching movies :clapper: and TV shows :tv: and playing golf :golf: in my downtime.
-
-Thank you for visiting my profile!
-
+<div>
+  <img align= "right"alt="YoonJu's GitHub stats-Dark" src="https://github-readme-stats.vercel.app/api?username=YJK-7&count_private=true&hide=stars&show_icons=true&theme=react#gh-dark-mode-only">
+ <p> 
+ I am a fullstack developer :computer: and undergraduate at Keio University
+ <br/>
+ <br/>
+ 💼 Currently: Open for hiring
+ <br/>
+ ⭐️ Recently learned: <a href= "https://reactnative.dev/"> React Native </a>
+ <br/>
+ <br/>
+ Thank you for visiting my profile!
+ </p>
+ <br clear="right"/>
+</div>
 
 ### Languages and Tools:
  <p align="center"> 
