@@ -37,6 +37,12 @@
   <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"></img>
   </a>
+  <a href="https://getbootstrap.com/">
+      <img src="https://skillicons.dev/icons?i=materialui" alt="materialui"></img>
+  </a>
+  <a href="https://graphql.org/">
+      <img src="https://skillicons.dev/icons?i=graphql" alt="graphql"></img>
+  </a>
   <a href="https://www.postgresql.org/">
       <img src="https://skillicons.dev/icons?i=postgres" alt="postgres"></img>
   </a>
